@@ -174,7 +174,7 @@
                         </goals>
 
                         <configuration>
-                            <projectName>FetchGitHubData</projectName>
+                            <projectName>GitHubAPITesting</projectName>
                             <skip>false</skip>
 
                             <!-- generation of cucumber report -->

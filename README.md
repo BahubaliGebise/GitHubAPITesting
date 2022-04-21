@@ -124,3 +124,7 @@ UC06 :  Specify a maximum number of results
       
 *** Execution Report ***
 ![img.png](img.png)
+
+
+Below screenshot with Tags
+![img_1.png](img_1.png)
