@@ -4,7 +4,7 @@ Framework : Test Automation project with Cucumber-BDD framework along with cucum
   
 Please find below scenarios details :
   
-  |-------------|-----------------------------------------------------------------------------------|
+  
   |TestCase ID  |                           **Scenarios Name**                                      |
   |-------------|-----------------------------------------------------------------------------------|
   |   UC01      | Fetching the total number of Github repositories for a given programming language |
@@ -43,7 +43,7 @@ Please find below scenarios details :
 
 **Scenarios Details**
 
-|-------------|-----------------------------------------------------------------------------------|
+
 |TestCase ID  |                           **Scenarios Name**                                      |
 |-------------|-----------------------------------------------------------------------------------|
 |   UC01      | Fetching the total number of Github repositories for a given programming language |
